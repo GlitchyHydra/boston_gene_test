@@ -1,6 +1,9 @@
 numpy
 pandas
 scanpy
+scipy
 ipykernel
 seaborn
 matplotlib
+igraph
+statsmodels
